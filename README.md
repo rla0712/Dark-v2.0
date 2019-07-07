@@ -1,11 +1,12 @@
-# DarkFB
-Gunakan tools ini dengan bijak
-Cara gunakan tools ini:
-$pkg install python2
-$pkg install git
-$pip2 install requsts
-$pip2 install mechanize
-$git clone https://github.com/rla0712/DarkFB
-$cd DarkFB
-$pip2 install -r requirements.txt
-$python2 DarkFB.py
+# DarkFB<br>
+Gunakan tools ini dengan bijak<br>
+Cara gunakan tools ini:<br>
+<ul>
+<li>$pkg install python2</li>
+<li>$pkg install git</li>
+<li>$pip2 install requsts</li>
+<li>$pip2 install mechanize</li>
+<li>$git clone https://github.com/rla0712/DarkFB</li>
+<li>$cd DarkFB</li>
+<li>$pip2 install -r requirements.txt</li>
+<li>$python2 DarkFB.py</li>
