@@ -9,4 +9,4 @@ Cara gunakan tools ini:<br>
 <li>$git clone https://github.com/rla0712/DarkFB-v2.0</li>
 <li>$cd DarkFB-v2.0</li>
 <li>$pip2 install -r requirements.txt</li>
-<li>$python2 DarkFB.py</li>
+<li>$python2 dark2.0.py</li>
