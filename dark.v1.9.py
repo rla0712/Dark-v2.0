@@ -19,8 +19,7 @@ sys.setdefaultencoding('utf8')
 br = mechanize.Browser()
 br.set_handle_robots(False)
 br.set_handle_refresh(mechanize._http.HTTPRefreshProcessor(), max_time=1)
-br.addheaders = [('User-Agent', 'Mozilla/5.0 (Linux; Android 5.1.1; Nexus 5 Build/LMY48B; wv) AppleWebKit/537.36(KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.65 Mobile Safari/537.36')]
-
+br.addheaders = [('User-Agent', 'Opera/9.80 (Android; Opera Mini/7.6.40234/154.91; U; id) Presto/2.12.423 Version/12.16')]
 
 def keluar():
     print '[!] Tutup'
